@@ -1,0 +1,70 @@
+<!-- UTF-8 형식으로 저장 -->
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<?
+		include "conf.php";
+
+		//세션 시작
+		session_start();
+
+		//로그아웃 상태 체크
+		if($_SESSION['sess_id']==null) $logout = 0;
+		else $logout=1;
+?>
+
+<!--게시판 띄우는 함수-->
+<script>
+
+	function Show_list()
+	{		
+		window.open("./gnuboard5/bbs/board.php?bo_table=g5_board", '_blank', "width=1000, height=600, history=no, scrollbars=yes, location=yes, status=yes, resizable=yes")
+	}
+
+	function Show_faq()
+	{		
+		window.open("./gnuboard5/bbs/board.php?bo_table=faq", '_blank', "width=1000, height=600, history=no, scrollbars=yes, location=yes, status=yes, resizable=yes")
+	}
+
+</script>
+
+
+<html>
+	<head></head>
+		<body style : bgcolor = "dddddd">
+
+		</body>
+
+		<table width="950" height="40" align="center" border="0" cellspacing="0" vertical-align="middle">
+			<tr>
+				<td>
+					<img src="./img/logo_nursing.png" style="width: 130px; height: 40px; text-align: center; vertical-align: middle;" />
+				</td>
+
+				<td align="right">
+					<font size = 3 color="blue" text-align="right"><b>
+						<?
+							if($logout==1){
+								
+								echo $_SESSION['sess_id'];
+							
+							}
+						?>
+					</font></b>	
+					
+					<font size = 3 color="black" text-align="right" vertical-align="middle"><b>
+						<?						
+								echo "님 안녕하세요";					
+						?>
+					</font></b>				
+
+					<a href = "./logout.php"><img src="./img/btn_logout_txt.png" style="width: 79px; height: 30px; text-align: center; vertical-align: middle;" /></a>
+
+					<a href="javascript:Show_list()"><img src="./img/btn_mainBoard.png" width="77" height="30" border="0" align="right"></a>
+
+					<a href="javascript:Show_faq()"><img src="./img/btn_Faq_txt.png" width="115" height="30" border="0" align="right"></a>
+
+				</td>
+			</tr>
+		<table>
+
+</html>
