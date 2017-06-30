@@ -2,9 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ab74181-306c-4c34-96d6-dd532cd4191d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/nurse.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList10_view.php" afterPath="$PROJECT_DIR$/ckList10_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList10_viewDB.php" afterPath="$PROJECT_DIR$/ckList10_viewDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList10_view_modify.php" afterPath="$PROJECT_DIR$/ckList10_view_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList11_view.php" afterPath="$PROJECT_DIR$/ckList11_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList11_viewDB.php" afterPath="$PROJECT_DIR$/ckList11_viewDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList11_view_modify.php" afterPath="$PROJECT_DIR$/ckList11_view_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList12_view.php" afterPath="$PROJECT_DIR$/ckList12_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList12_viewDB.php" afterPath="$PROJECT_DIR$/ckList12_viewDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList12_view_modify.php" afterPath="$PROJECT_DIR$/ckList12_view_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList13_view.php" afterPath="$PROJECT_DIR$/ckList13_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList13_viewDB.php" afterPath="$PROJECT_DIR$/ckList13_viewDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList13_view_modify.php" afterPath="$PROJECT_DIR$/ckList13_view_modify.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList1_remain.php" afterPath="$PROJECT_DIR$/ckList1_remain.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList1_remainDB.php" afterPath="$PROJECT_DIR$/ckList1_remainDB.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList1_remain_modify.php" afterPath="$PROJECT_DIR$/ckList1_remain_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList2_view.php" afterPath="$PROJECT_DIR$/ckList2_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList2_viewDB.php" afterPath="$PROJECT_DIR$/ckList2_viewDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList2_view_modify.php" afterPath="$PROJECT_DIR$/ckList2_view_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList3_view.php" afterPath="$PROJECT_DIR$/ckList3_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList3_viewDB.php" afterPath="$PROJECT_DIR$/ckList3_viewDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList3_view_modify.php" afterPath="$PROJECT_DIR$/ckList3_view_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList4_view.php" afterPath="$PROJECT_DIR$/ckList4_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList4_viewDB.php" afterPath="$PROJECT_DIR$/ckList4_viewDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList4_view_modify.php" afterPath="$PROJECT_DIR$/ckList4_view_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList5_view.php" afterPath="$PROJECT_DIR$/ckList5_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList5_viewDB.php" afterPath="$PROJECT_DIR$/ckList5_viewDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList5_view_modify.php" afterPath="$PROJECT_DIR$/ckList5_view_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList6_view.php" afterPath="$PROJECT_DIR$/ckList6_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList6_viewDB.php" afterPath="$PROJECT_DIR$/ckList6_viewDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList6_view_modify.php" afterPath="$PROJECT_DIR$/ckList6_view_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList7_view.php" afterPath="$PROJECT_DIR$/ckList7_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList7_viewDB.php" afterPath="$PROJECT_DIR$/ckList7_viewDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList7_view_modify.php" afterPath="$PROJECT_DIR$/ckList7_view_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList8_view.php" afterPath="$PROJECT_DIR$/ckList8_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList8_viewDB.php" afterPath="$PROJECT_DIR$/ckList8_viewDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList8_view_modify.php" afterPath="$PROJECT_DIR$/ckList8_view_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList9_view.php" afterPath="$PROJECT_DIR$/ckList9_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList9_viewDB.php" afterPath="$PROJECT_DIR$/ckList9_viewDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList9_view_modify.php" afterPath="$PROJECT_DIR$/ckList9_view_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_act.php" afterPath="$PROJECT_DIR$/ckList_act.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_actDB.php" afterPath="$PROJECT_DIR$/ckList_actDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_act_modify.php" afterPath="$PROJECT_DIR$/ckList_act_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_doing.php" afterPath="$PROJECT_DIR$/ckList_doing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_doingDB.php" afterPath="$PROJECT_DIR$/ckList_doingDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_doing_modify.php" afterPath="$PROJECT_DIR$/ckList_doing_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_eval.php" afterPath="$PROJECT_DIR$/ckList_eval.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_evalDB.php" afterPath="$PROJECT_DIR$/ckList_evalDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_eval_modify.php" afterPath="$PROJECT_DIR$/ckList_eval_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_goal.php" afterPath="$PROJECT_DIR$/ckList_goal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_goalDB.php" afterPath="$PROJECT_DIR$/ckList_goalDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_goal_modify.php" afterPath="$PROJECT_DIR$/ckList_goal_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_rank.php" afterPath="$PROJECT_DIR$/ckList_rank.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_rankDB.php" afterPath="$PROJECT_DIR$/ckList_rankDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList_rank_modify.php" afterPath="$PROJECT_DIR$/ckList_rank_modify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf.php" afterPath="$PROJECT_DIR$/conf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login_ck.php" afterPath="$PROJECT_DIR$/login_ck.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logout.php" afterPath="$PROJECT_DIR$/logout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.php" afterPath="$PROJECT_DIR$/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main_admin.php" afterPath="$PROJECT_DIR$/main_admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/menu_top.html" afterPath="$PROJECT_DIR$/menu_top.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,54 +80,13 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="380">
               <caret line="106" column="47" lean-forward="false" selection-start-line="106" selection-start-column="47" selection-end-line="106" selection-end-column="47" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ckList1_remain.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ckList1_remain.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="310" column="53" lean-forward="false" selection-start-line="310" selection-start-column="53" selection-end-line="310" selection-end-column="53" />
-              <folding>
-                <element signature="n#style#0;n#input#0;n#td#2;n#tr#13;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#3;n#tr#13;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#2;n#tr#14;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#3;n#tr#14;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1498725579877" expanded="true" signature="580:639" ph="SELECT p_nam... nurse2016_patient" />
-                <marker date="1498725579877" expanded="true" signature="878:957" ph="..." />
-                <marker date="1498725579877" expanded="false" signature="9670:9692" ph="..." />
-                <marker date="1498725579877" expanded="false" signature="9791:9813" ph="..." />
-                <marker date="1498725579877" expanded="false" signature="10400:10422" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ckList1_remain_modify.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ckList1_remain_modify.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="321" column="54" lean-forward="true" selection-start-line="321" selection-start-column="54" selection-end-line="321" selection-end-column="54" />
-              <folding>
-                <element signature="n#style#0;n#input#0;n#td#2;n#tr#13;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#3;n#tr#13;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#2;n#tr#14;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#td#3;n#tr#14;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1498725595004" expanded="true" signature="580:639" ph="SELECT p_nam... nurse2016_patient" />
-                <marker date="1498725595004" expanded="true" signature="783:840" ph="SELECT * FRO... nurse2016_ck1_remain" />
-                <marker date="1498725595004" expanded="true" signature="1187:1266" ph="..." />
-                <marker date="1498725595004" expanded="false" signature="11247:11269" ph="..." />
-                <marker date="1498725595004" expanded="false" signature="11414:11436" ph="..." />
-                <marker date="1498725595004" expanded="false" signature="12069:12091" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -80,9 +104,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/ckList1_remain.php" />
         <option value="$PROJECT_DIR$/ckList1_remain_modify.php" />
+        <option value="$PROJECT_DIR$/login.php" />
       </list>
     </option>
   </component>
@@ -94,10 +118,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="x" value="-198" />
+    <option name="y" value="53" />
+    <option name="width" value="1920" />
+    <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -115,11 +139,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ejune_nurse" />
+              <option name="myItemId" value="nurse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -129,8 +155,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,6 +213,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -223,34 +253,35 @@
       <option name="presentableId" value="Default" />
       <updated>1498718003660</updated>
       <workItem from="1498718006203" duration="1005000" />
+      <workItem from="1498786227894" duration="330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1992000" />
+    <option name="totallyTimeSpent" value="2938000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <frame x="-198" y="53" width="1920" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33020636" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33020636" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -265,106 +296,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/login.php" />
+    <entry file="file://$PROJECT_DIR$/ckList1_remain.php" />
+    <entry file="file://$PROJECT_DIR$/ckList1_remain_modify.php" />
+    <entry file="file://$PROJECT_DIR$/ckList1_remainDB.php" />
+    <entry file="file://$PROJECT_DIR$/ckList1_remain.php" />
+    <entry file="file://$PROJECT_DIR$/ckList1_remain_modify.php" />
+    <entry file="file://$PROJECT_DIR$/ckList_rank.php" />
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="380">
           <caret line="106" column="47" lean-forward="false" selection-start-line="106" selection-start-column="47" selection-end-line="106" selection-end-column="47" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ckList1_remain.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="308" column="30" lean-forward="false" selection-start-line="308" selection-start-column="30" selection-end-line="308" selection-end-column="30" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#td#2;n#tr#13;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#3;n#tr#13;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#2;n#tr#14;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#3;n#tr#14;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1498725579877" expanded="true" signature="580:639" ph="SELECT p_nam... nurse2016_patient" />
-            <marker date="1498725579877" expanded="true" signature="878:957" ph="..." />
-            <marker date="1498725579877" expanded="false" signature="9670:9692" ph="..." />
-            <marker date="1498725579877" expanded="false" signature="9791:9813" ph="..." />
-            <marker date="1498725579877" expanded="false" signature="10400:10422" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ckList1_remain_modify.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="310" column="16" lean-forward="true" selection-start-line="310" selection-start-column="16" selection-end-line="310" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#td#2;n#tr#13;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#3;n#tr#13;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#2;n#tr#14;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#3;n#tr#14;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1498725595004" expanded="true" signature="580:639" ph="SELECT p_nam... nurse2016_patient" />
-            <marker date="1498725595004" expanded="true" signature="783:840" ph="SELECT * FRO... nurse2016_ck1_remain" />
-            <marker date="1498725595004" expanded="true" signature="1187:1266" ph="..." />
-            <marker date="1498725595004" expanded="false" signature="11247:11269" ph="..." />
-            <marker date="1498725595004" expanded="false" signature="11414:11436" ph="..." />
-            <marker date="1498725595004" expanded="false" signature="12069:12091" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="106" column="47" lean-forward="false" selection-start-line="106" selection-start-column="47" selection-end-line="106" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ckList1_remainDB.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1498725477488" expanded="true" signature="1460:2320" ph="INSERT INTO nurse2016_ck1_remain... " />
-            <marker date="1498725477488" expanded="true" signature="2368:3064" ph="UPDATE nurse... " />
-            <marker date="1498725477488" expanded="true" signature="4174:4278" ph="..." />
-            <marker date="1498725477488" expanded="true" signature="4328:4446" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ckList1_remain.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="310" column="53" lean-forward="false" selection-start-line="310" selection-start-column="53" selection-end-line="310" selection-end-column="53" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#td#2;n#tr#13;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#3;n#tr#13;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#2;n#tr#14;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#3;n#tr#14;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1498725579877" expanded="true" signature="580:639" ph="SELECT p_nam... nurse2016_patient" />
-            <marker date="1498725579877" expanded="true" signature="878:957" ph="..." />
-            <marker date="1498725579877" expanded="false" signature="9670:9692" ph="..." />
-            <marker date="1498725579877" expanded="false" signature="9791:9813" ph="..." />
-            <marker date="1498725579877" expanded="false" signature="10400:10422" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ckList1_remain_modify.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="321" column="54" lean-forward="true" selection-start-line="321" selection-start-column="54" selection-end-line="321" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#td#2;n#tr#13;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#3;n#tr#13;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#2;n#tr#14;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#td#3;n#tr#14;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1498725595004" expanded="true" signature="580:639" ph="SELECT p_nam... nurse2016_patient" />
-            <marker date="1498725595004" expanded="true" signature="783:840" ph="SELECT * FRO... nurse2016_ck1_remain" />
-            <marker date="1498725595004" expanded="true" signature="1187:1266" ph="..." />
-            <marker date="1498725595004" expanded="false" signature="11247:11269" ph="..." />
-            <marker date="1498725595004" expanded="false" signature="11414:11436" ph="..." />
-            <marker date="1498725595004" expanded="false" signature="12069:12091" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>

@@ -104,7 +104,7 @@ var m_id = form.input_1.value;
 	-->
 
     <div id="cont-login"">
-        <a href="/"><span><font size = "6"><b>노인요양시설 다학제 통합기능케어 시스템</b></font></span></a><br><br>
+        <a href="/"><span><font size = "6"><b>1노인요양시설 다학제 통합기능케어 시스템</b></font></span></a><br><br>
         <div class="panel panel-default" id="panel-login">
         	<div class="panel-body">
 			    <form name="form" action="login_ck.php" method ="POST">	
