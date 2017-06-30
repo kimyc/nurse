@@ -290,7 +290,7 @@ function checkIt(form){
 			</tr>
 
 			<tr>
-                <!--역코딩 문항-->
+                <!--역코딩 문항13번-->
 				<td width = "10%" height="20" align="center"><b>13</b></td>			
 				<td width = "70%"  align="center"><b>자해(비위관/도뇨관 제거,불결행위,신체적 자해 포함)를 함</b></td>
 				<td width = "10%"  align="center"><input type="radio" style="width:23px;height:23px"  name="sur_13" value= "0"></td>
@@ -298,7 +298,7 @@ function checkIt(form){
 			</tr>
 
 			<tr>
-                <!--역코딩 문항-->
+                <!--역코딩 문항14번-->
 				<td width = "10%" height="20" align="center"><b>14</b></td>			
 				<td width = "70%"  align="center"><b>타인에게 언어적 공격을 함</b></td>
 				<td width = "10%"  align="center"><input type="radio" style="width:23px;height:23px"  name="sur_14" value= "0"></td>
@@ -306,7 +306,7 @@ function checkIt(form){
 			</tr>
 
 			<tr>
-                <!--역코딩 문항-->
+                <!--역코딩 문항15번-->
 				<td width = "10%" height="20" align="center"><b>15</b></td>			
 				<td width = "70%"  align="center"><b>간호사의 인사나 대화시도에 언어적,비언어적 반응이 없음</b></td>
 				<td width = "10%"  align="center"><input type="radio" style="width:23px;height:23px"  name="sur_15" value= "0"></td>
