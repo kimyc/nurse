@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="968e0cc1-7e54-4eb9-a325-afa457675295" name="https://ejune.kr" url="http://ejune.kr">
+        <fileTransfer host="ejune.kr" port="22" rootFolder="/home/hosting_users/kimyc30" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
