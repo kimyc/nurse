@@ -1,8 +1,16 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="968e0cc1-7e54-4eb9-a325-afa457675295" name="https://ejune.kr" url="http://ejune.kr">
-        <fileTransfer host="ejune.kr" port="22" rootFolder="/home/hosting_users/kimyc30" accessType="SFTP">
+      <webServer id="968e0cc1-7e54-4eb9-a325-afa457675295" name="nurse" url="http://ejune.kr">
+        <fileTransfer host="ejune.kr" port="22" rootFolder="/home/hosting_users/kimyc30/www/nurse" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="68ce9340-b0f4-49e0-a830-e8a4f0fb3bf0" name="next.rootall.org" url="http://rootall.org">
+        <fileTransfer host="rootall.org" port="22" rootFolder="/home/rootall" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
