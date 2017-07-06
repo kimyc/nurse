@@ -4,6 +4,512 @@
     <list default="true" id="7ab74181-306c-4c34-96d6-dd532cd4191d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ckList10_viewDB.php" afterPath="$PROJECT_DIR$/ckList10_viewDB.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/core.css" afterPath="$PROJECT_DIR$/css/core.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/LICENSE.txt" afterPath="$PROJECT_DIR$/gnuboard5/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/admin.menu900.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/admin.menu900.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/cache_file_delete.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/cache_file_delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/captcha_file_delete.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/captcha_file_delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/contentform.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/contentform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/contentformupdate.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/contentformupdate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/contentlist.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/contentlist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/css/admin.css" afterPath="$PROJECT_DIR$/gnuboard5/adm/css/admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/css/theme.css" afterPath="$PROJECT_DIR$/gnuboard5/adm/css/theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/faqform.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/faqform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/faqformupdate.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/faqformupdate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/faqlist.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/faqlist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/faqmasterform.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/faqmasterform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/faqmasterformupdate.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/faqmasterformupdate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/faqmasterlist.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/faqmasterlist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/mail_form.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/mail_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/mail_select_form.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/mail_select_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/newwinform.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/newwinform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/newwinformupdate.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/newwinformupdate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/newwinlist.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/newwinlist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/popular_list.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/popular_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/popular_rank.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/popular_rank.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/session_file_delete.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/session_file_delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/ajax.hp_chk.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/ajax.hp_chk.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/ajax.sms_write_form.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/ajax.sms_write_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/ajax.sms_write_group.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/ajax.sms_write_group.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/ajax.sms_write_level.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/ajax.sms_write_level.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/ajax.sms_write_person.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/ajax.sms_write_person.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/config.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/config_update.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/config_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/css/sms5.css" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/css/sms5.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/emoticon_move.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/emoticon_move.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/emoticon_move_update.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/emoticon_move_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_group.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_group.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_group_move.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_group_move.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_group_update.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_group_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_list.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_multi_update.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_multi_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_update.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_write.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/form_write.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/history_list.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/history_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/history_num.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/history_num.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/history_send.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/history_send.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/history_view.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/history_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/install.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/install.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/member_update.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/member_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/member_update_run.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/member_update_run.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_file.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_file.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_file_download.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_file_download.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_file_upload.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_file_upload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_move.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_move.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_multi_update.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_multi_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_update.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_write.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_book_write.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_group.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_group.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_group_move.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_group_move.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_group_update.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/num_group_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/number_move_update.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/number_move_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/sms_ing.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/sms_ing.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/sms_write.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/sms_write.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/sms_write_form.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/sms_write_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/sms_write_overlap_check.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/sms_write_overlap_check.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/sms_write_send.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/sms_admin/sms_write_send.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/sql_write.sql" afterPath="$PROJECT_DIR$/gnuboard5/adm/sql_write.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/visit_search.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/visit_search.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/adm/write_count.php" afterPath="$PROJECT_DIR$/gnuboard5/adm/write_count.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/_head.sub.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/_head.sub.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/_tail.sub.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/_tail.sub.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/ajax.autosave.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/ajax.autosave.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/ajax.autosavedel.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/ajax.autosavedel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/ajax.autosavelist.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/ajax.autosavelist.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/ajax.autosaveload.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/ajax.autosaveload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/ajax.filter.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/ajax.filter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/ajax.mb_email.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/ajax.mb_email.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/ajax.mb_id.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/ajax.mb_id.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/ajax.mb_nick.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/ajax.mb_nick.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/ajax.mb_recommend.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/ajax.mb_recommend.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/alert.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/alert.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/content.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/faq.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/faq.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/group.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/group.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/new_delete.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/new_delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/newwin.inc.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/newwin.inc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/password_lost.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/password_lost.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/password_lost2.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/password_lost2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/password_lost_certify.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/password_lost_certify.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/register_email.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/register_email.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/register_email_update.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/register_email_update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/sns_send.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/sns_send.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/bbs/write_comment_update.sns.php" afterPath="$PROJECT_DIR$/gnuboard5/bbs/write_comment_update.sns.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/css/default.css" afterPath="$PROJECT_DIR$/gnuboard5/css/default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/css/mobile.css" afterPath="$PROJECT_DIR$/gnuboard5/css/mobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/del/fonts/.htaccess" afterPath="$PROJECT_DIR$/gnuboard5/del/fonts/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/extend/smarteditor_upload_extend.php" afterPath="$PROJECT_DIR$/gnuboard5/extend/smarteditor_upload_extend.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/extend/sms5.extend.php" afterPath="$PROJECT_DIR$/gnuboard5/extend/sms5.extend.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/install/install.css" afterPath="$PROJECT_DIR$/gnuboard5/install/install.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/install/install.inc.php" afterPath="$PROJECT_DIR$/gnuboard5/install/install.inc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/install/install.inc2.php" afterPath="$PROJECT_DIR$/gnuboard5/install/install.inc2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/js/autosave.js" afterPath="$PROJECT_DIR$/gnuboard5/js/autosave.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/js/html5.js" afterPath="$PROJECT_DIR$/gnuboard5/js/html5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/js/jquery-1.8.3.min.js" afterPath="$PROJECT_DIR$/gnuboard5/js/jquery-1.8.3.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/js/jquery.menu.js" afterPath="$PROJECT_DIR$/gnuboard5/js/jquery.menu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/js/jquery.register_form.js" afterPath="$PROJECT_DIR$/gnuboard5/js/jquery.register_form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/js/jquery.sms_paging.js" afterPath="$PROJECT_DIR$/gnuboard5/js/jquery.sms_paging.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/lib/Excel/oleread.inc.php" afterPath="$PROJECT_DIR$/gnuboard5/lib/Excel/oleread.inc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/lib/Excel/reader.php" afterPath="$PROJECT_DIR$/gnuboard5/lib/Excel/reader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/lib/editor.lib.php" afterPath="$PROJECT_DIR$/gnuboard5/lib/editor.lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/lib/icode.sms.lib.php" afterPath="$PROJECT_DIR$/gnuboard5/lib/icode.sms.lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/lib/naver_syndi.lib.php" afterPath="$PROJECT_DIR$/gnuboard5/lib/naver_syndi.lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/lib/register.lib.php" afterPath="$PROJECT_DIR$/gnuboard5/lib/register.lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/lib/thumbnail.lib.php" afterPath="$PROJECT_DIR$/gnuboard5/lib/thumbnail.lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/_head.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/_head.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/_tail.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/_tail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/group.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/group.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/head.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/head.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/index.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/newwin.inc.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/newwin.inc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/basic/list.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/basic/list.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/basic/view.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/basic/view.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/basic/view_comment.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/basic/view_comment.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/basic/write.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/basic/write.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/gallery/list.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/gallery/list.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/gallery/style.css" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/gallery/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/gallery/view.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/gallery/view.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/gallery/view_comment.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/gallery/view_comment.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/gallery/write.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/board/gallery/write.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/connect/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/connect/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/content/basic/content.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/content/basic/content.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/content/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/content/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/latest/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/latest/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/member/basic/login_check.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/member/basic/login_check.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/member/basic/password_lost.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/member/basic/password_lost.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/member/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/member/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/new/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/new/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/outlogin/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/outlogin/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/poll/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/poll/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/popular/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/popular/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/qa/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/qa/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/search/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/search/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/skin/visit/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/mobile/skin/visit/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/mobile/tail.php" afterPath="$PROJECT_DIR$/gnuboard5/mobile/tail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/docs/Callback_function_notes.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/docs/Callback_function_notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/docs/DomainKeys_notes.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/docs/DomainKeys_notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/docs/Note_for_SMTP_debugging.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/docs/Note_for_SMTP_debugging.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/docs/extending.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/docs/extending.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/docs/faq.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/docs/faq.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/docs/pop3_article.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/docs/pop3_article.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/examples/contents.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/examples/contents.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/examples/contentsutf8.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/examples/contentsutf8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/examples/index.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/PHPMailer/examples/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/backup_template.xml" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/backup_template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/cheditor.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/cheditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/css/dialog.css" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/css/dialog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/css/editarea.css" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/css/editarea.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/css/imageupload.css" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/css/imageupload.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/css/imageurl.css" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/css/imageurl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/css/lightbox.css" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/css/lightbox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/editor.lib.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/editor.lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/imageUpload/_common.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/imageUpload/_common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/color_picker.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/color_picker.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/flash.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/flash.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/google_map.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/google_map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/icon.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/icon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/image.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/image.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/image.html5.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/image.html5.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/image_url.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/image_url.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/AC_OETags.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/AC_OETags.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/color_picker.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/color_picker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/dialog.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/dialog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/flash.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/flash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/google_map.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/google_map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/icon.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/icon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/image.html5.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/image.html5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/image.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/image_upload_flash.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/image_upload_flash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/image_url.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/image_url.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/link.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/link.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/media.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/media.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/swfobject.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/swfobject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/symbol.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/symbol.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/table.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/table.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/table_modify.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/js/table_modify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/link.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/link.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/media.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/media.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/symbol.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/symbol.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/table.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/table.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/table_modify.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/popup/table_modify.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/template.xml" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/utils/crossdomain.xml" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/cheditor5/utils/crossdomain.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/SmartEditor2Skin.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/SmartEditor2Skin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/SmartEditor2_noframe.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/SmartEditor2_noframe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/config.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/css/smart_editor2.css" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/css/smart_editor2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/css/smart_editor2_out.css" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/css/smart_editor2_out.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/editor.lib.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/editor.lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/js/HuskyEZCreator.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/js/HuskyEZCreator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/js/smarteditor2.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/js/smarteditor2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/license.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/plugin/hp_SE2M_AttachQuickPhoto.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/plugin/hp_SE2M_AttachQuickPhoto.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/_common.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/_common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/index.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/js/basic.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/js/basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/js/jquery-1.8.3.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/js/jquery-1.8.3.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/php/_common.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/php/_common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/swfupload/fileprogress.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/swfupload/fileprogress.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/swfupload/handlers.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/photo_uploader/popup/swfupload/handlers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/readme.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/release_notes.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/release_notes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/shortcut.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/shortcut.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/smart_editor2_inputarea.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/smart_editor2_inputarea.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/smart_editor2_inputarea_ie8.html" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/smart_editor2_inputarea_ie8.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/src_include.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/editor/smarteditor2/src_include.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/HTMLPurifier.standalone.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/HTMLPurifier.standalone.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/safeiframe.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/safeiframe.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Builder/ConfigSchema.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Builder/ConfigSchema.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Builder/Xml.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Builder/Xml.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Exception.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Exception.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Interchange.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Interchange.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Interchange/Directive.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Interchange/Directive.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Interchange/Id.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Interchange/Id.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/InterchangeBuilder.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/InterchangeBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Validator.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/Validator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/ValidatorAtom.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/ValidatorAtom.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.AllowedClasses.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.AllowedClasses.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.AllowedFrameTargets.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.AllowedFrameTargets.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.AllowedRel.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.AllowedRel.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.AllowedRev.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.AllowedRev.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.ClassUseCDATA.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.ClassUseCDATA.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.DefaultImageAlt.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.DefaultImageAlt.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.DefaultInvalidImage.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.DefaultInvalidImage.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.DefaultInvalidImageAlt.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.DefaultInvalidImageAlt.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.DefaultTextDir.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.DefaultTextDir.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.EnableID.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.EnableID.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.ForbiddenClasses.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.ForbiddenClasses.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.ID.HTML5.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.ID.HTML5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.IDBlacklist.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.IDBlacklist.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.IDBlacklistRegexp.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.IDBlacklistRegexp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.IDPrefix.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.IDPrefix.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.IDPrefixLocal.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Attr.IDPrefixLocal.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.AutoParagraph.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.AutoParagraph.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.Custom.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.Custom.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.DisplayLinkURI.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.DisplayLinkURI.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.Linkify.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.Linkify.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.PurifierLinkify.DocURL.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.PurifierLinkify.DocURL.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.PurifierLinkify.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.PurifierLinkify.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.Predicate.txt0000664" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.Predicate.txt0000664" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.RemoveNbsp.Exceptions.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.RemoveNbsp.Exceptions.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.RemoveNbsp.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.RemoveNbsp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveEmpty.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveSpansWithoutAttributes.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/AutoFormat.RemoveSpansWithoutAttributes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowDuplicates.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowDuplicates.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowImportant.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowImportant.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowTricky.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowTricky.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowedFonts.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowedFonts.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowedProperties.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.AllowedProperties.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.DefinitionRev.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.DefinitionRev.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.ForbiddenProperties.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.ForbiddenProperties.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.MaxImgLength.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.MaxImgLength.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.Proprietary.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.Proprietary.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.Trusted.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/CSS.Trusted.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Cache.DefinitionImpl.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Cache.DefinitionImpl.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Cache.SerializerPath.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Cache.SerializerPath.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Cache.SerializerPermissions.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Cache.SerializerPermissions.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.AggressivelyFixLt.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.AggressivelyFixLt.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.AllowHostnameUnderscore.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.AllowHostnameUnderscore.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.CollectErrors.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.CollectErrors.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.ColorKeywords.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.ColorKeywords.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.ConvertDocumentToFragment.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.ConvertDocumentToFragment.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.DirectLexLineNumberSyncInterval.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.DirectLexLineNumberSyncInterval.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.DisableExcludes.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.DisableExcludes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.EnableIDNA.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.EnableIDNA.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.Encoding.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.Encoding.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.EscapeInvalidChildren.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.EscapeInvalidChildren.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.EscapeInvalidTags.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.EscapeInvalidTags.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.EscapeNonASCIICharacters.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.EscapeNonASCIICharacters.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.HiddenElements.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.HiddenElements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.Language.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.Language.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.LexerImpl.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.LexerImpl.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.MaintainLineNumbers.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.MaintainLineNumbers.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.NormalizeNewlines.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.NormalizeNewlines.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.RemoveInvalidImg.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.RemoveInvalidImg.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.RemoveProcessingInstructions.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.RemoveProcessingInstructions.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.RemoveScriptContents.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Core.RemoveScriptContents.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.Custom.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.Custom.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.Escaping.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.Escaping.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.Scope.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.Scope.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.TidyImpl.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.TidyImpl.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.ExtractStyleBlocks.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.YouTube.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Filter.YouTube.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Allowed.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Allowed.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedAttributes.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedAttributes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedComments.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedComments.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedCommentsRegexp.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedCommentsRegexp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedElements.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedElements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedModules.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.AllowedModules.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Attr.Name.UseCDATA.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Attr.Name.UseCDATA.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.BlockWrapper.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.BlockWrapper.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.CoreModules.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.CoreModules.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.CustomDoctype.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.CustomDoctype.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.DefinitionID.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.DefinitionID.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.DefinitionRev.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.DefinitionRev.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Doctype.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Doctype.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.FlashAllowFullScreen.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.FlashAllowFullScreen.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.ForbiddenAttributes.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.ForbiddenAttributes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.ForbiddenElements.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.ForbiddenElements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.MaxImgLength.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.MaxImgLength.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Nofollow.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Nofollow.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Parent.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Parent.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Proprietary.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Proprietary.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.SafeEmbed.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.SafeEmbed.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.SafeIframe.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.SafeIframe.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.SafeObject.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.SafeObject.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.SafeScripting.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.SafeScripting.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Strict.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Strict.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TargetBlank.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TargetBlank.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TargetNoreferrer.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TargetNoreferrer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TidyAdd.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TidyAdd.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TidyLevel.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TidyLevel.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TidyRemove.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.TidyRemove.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Trusted.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.Trusted.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.XHTML.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/HTML.XHTML.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Output.CommentScriptContents.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Output.CommentScriptContents.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Output.FixInnerHTML.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Output.FixInnerHTML.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Output.FlashCompat.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Output.FlashCompat.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Output.Newline.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Output.Newline.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Output.SortAttr.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Output.SortAttr.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Output.TidyFormat.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Output.TidyFormat.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Test.ForceNoIconv.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/Test.ForceNoIconv.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.AllowedSchemes.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.AllowedSchemes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.Base.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.Base.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.DefaultScheme.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.DefaultScheme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.DefinitionID.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.DefinitionID.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.DefinitionRev.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.DefinitionRev.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.Disable.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.Disable.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.DisableExternal.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.DisableExternal.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.DisableExternalResources.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.DisableExternalResources.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.DisableResources.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.DisableResources.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.Host.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.Host.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.HostBlacklist.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.HostBlacklist.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.MakeAbsolute.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.MakeAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.Munge.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.Munge.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.MungeResources.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.MungeResources.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.MungeSecretKey.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.MungeSecretKey.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.OverrideAllowedSchemes.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.OverrideAllowedSchemes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.SafeIframeRegexp.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/URI.SafeIframeRegexp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/info.ini" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/ConfigSchema/schema/info.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Filter/ExtractStyleBlocks.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Filter/ExtractStyleBlocks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Filter/YouTube.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Filter/YouTube.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Language/classes/en-x-test.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Language/classes/en-x-test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Language/messages/en-x-test.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Language/messages/en-x-test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Language/messages/en-x-testmini.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Language/messages/en-x-testmini.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Language/messages/en.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Language/messages/en.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Lexer/PH5P.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Lexer/PH5P.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Printer.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Printer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Printer/CSSDefinition.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Printer/CSSDefinition.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Printer/ConfigForm.css" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Printer/ConfigForm.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Printer/ConfigForm.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Printer/ConfigForm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Printer/ConfigForm.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Printer/ConfigForm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Printer/HTMLDefinition.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/htmlpurifier/standalone/HTMLPurifier/Printer/HTMLDefinition.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/MIT-LICENSE.txt" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/MIT-LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/excanvas.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/excanvas.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/jqplot.barRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/jqplot.barRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/jqplot.categoryAxisRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/jqplot.categoryAxisRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/jqplot.pointLabels.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/jqplot.pointLabels.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/jquery.jqplot.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/jquery.jqplot.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.BezierCurveRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.BezierCurveRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.barRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.barRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.blockRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.blockRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.bubbleRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.bubbleRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.canvasAxisLabelRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.canvasAxisLabelRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.canvasAxisTickRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.canvasAxisTickRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.canvasOverlay.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.canvasOverlay.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.canvasTextRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.canvasTextRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.categoryAxisRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.categoryAxisRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.ciParser.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.ciParser.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.cursor.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.cursor.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.dateAxisRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.dateAxisRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.donutRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.donutRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.dragable.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.dragable.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.enhancedLegendRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.enhancedLegendRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.funnelRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.funnelRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.highlighter.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.highlighter.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.json2.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.json2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.logAxisRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.logAxisRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.mekkoAxisRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.mekkoAxisRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.mekkoRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.mekkoRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.meterGaugeRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.meterGaugeRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.mobile.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.mobile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.mobile.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.mobile.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.ohlcRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.ohlcRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.pieRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.pieRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.pointLabels.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.pointLabels.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.pyramidAxisRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.pyramidAxisRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.pyramidGridRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.pyramidGridRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.pyramidRenderer.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.pyramidRenderer.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.trendline.min.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jqplot/plugins/jqplot.trendline.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/jquery-ui/datepicker.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/jquery-ui/datepicker.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/_common.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/_common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/captcha.lib.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/captcha.lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/kcaptcha.js" afterPath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/kcaptcha.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/kcaptcha_config.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/kcaptcha_config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/kcaptcha_image.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/kcaptcha_image.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/kcaptcha_mp3.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/kcaptcha_mp3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/kcaptcha_result.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/kcaptcha_result.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/kcaptcha_session.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/kcaptcha/kcaptcha_session.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/kcpcert/_common.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/kcpcert/_common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/kcpcert/lib/ct_cli_lib.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/kcpcert/lib/ct_cli_lib.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/AuthOnlyReq.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/AuthOnlyReq.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/AuthOnlyRes.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/AuthOnlyRes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/lgdacom/JSON.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/lgdacom/JSON.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/lgdacom/conf/lgdacom.conf" afterPath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/lgdacom/conf/lgdacom.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/lgdacom/conf/mall.conf" afterPath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/lgdacom/conf/mall.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/lgdacom/patch.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/lgdacom/patch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/lgdacom/ping.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/lgxpay/lgdacom/ping.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/okname/_common.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/okname/_common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/okname/ipin1.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/okname/ipin1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/okname/ipin2.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/okname/ipin2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/sms5/_common.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/sms5/_common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/sms5/ajax.sms_emoticon.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/sms5/ajax.sms_emoticon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/sms5/index.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/sms5/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/sns/facebook/_common.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/sns/facebook/_common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/sns/facebook/callback.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/sns/facebook/callback.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/sns/twitter/_common.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/sns/twitter/_common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/sns/twitter/callback.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/sns/twitter/callback.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/sns/view.sns.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/sns/view.sns.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/sns/view_comment_list.sns.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/sns/view_comment_list.sns.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/sns/view_comment_write.sns.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/sns/view_comment_write.sns.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/syndi/_common.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/syndi/_common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/plugin/syndi/ping.php" afterPath="$PROJECT_DIR$/gnuboard5/plugin/syndi/ping.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/board/basic/list.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/skin/board/basic/list.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/board/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/skin/board/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/board/basic/view.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/skin/board/basic/view.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/board/basic/view_comment.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/skin/board/basic/view_comment.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/board/basic/write.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/skin/board/basic/write.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/board/gallery/list.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/skin/board/gallery/list.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/board/gallery/style.css" afterPath="$PROJECT_DIR$/gnuboard5/skin/board/gallery/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/board/gallery/view.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/skin/board/gallery/view.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/board/gallery/view_comment.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/skin/board/gallery/view_comment.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/board/gallery/write.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/skin/board/gallery/write.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/content/basic/content.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/skin/content/basic/content.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/content/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/skin/content/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/faq/basic/list.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/skin/faq/basic/list.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/faq/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/skin/faq/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/latest/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/skin/latest/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/member/basic/login_check.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/skin/member/basic/login_check.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/member/basic/password_lost.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/skin/member/basic/password_lost.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/member/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/skin/member/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/new/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/skin/new/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/outlogin/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/skin/outlogin/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/poll/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/skin/poll/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/popular/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/skin/popular/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/search/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/skin/search/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/skin/visit/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/skin/visit/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/basic/list.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/basic/list.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/basic/view.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/basic/view.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/basic/view_comment.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/basic/view_comment.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/basic/write.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/basic/write.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/gallery/list.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/gallery/list.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/gallery/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/gallery/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/gallery/view.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/gallery/view.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/gallery/view_comment.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/gallery/view_comment.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/gallery/write.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/board/gallery/write.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/connect/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/connect/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/content/basic/content.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/content/basic/content.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/content/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/content/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/latest/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/latest/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/member/basic/login_check.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/member/basic/login_check.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/member/basic/password_lost.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/member/basic/password_lost.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/member/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/member/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/new/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/new/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/outlogin/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/outlogin/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/poll/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/poll/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/popular/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/popular/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/qa/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/qa/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/search/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/search/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/visit/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/mobile/skin/visit/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/readme.txt" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/basic/list.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/basic/list.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/basic/view.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/basic/view.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/basic/view_comment.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/basic/view_comment.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/basic/write.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/basic/write.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/gallery/list.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/gallery/list.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/gallery/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/gallery/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/gallery/view.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/gallery/view.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/gallery/view_comment.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/gallery/view_comment.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/gallery/write.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/board/gallery/write.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/content/basic/content.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/content/basic/content.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/content/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/content/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/faq/basic/list.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/faq/basic/list.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/faq/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/faq/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/latest/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/latest/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/member/basic/login_check.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/member/basic/login_check.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/member/basic/password_lost.skin.php" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/member/basic/password_lost.skin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/member/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/member/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/new/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/new/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/outlogin/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/outlogin/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/poll/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/poll/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/popular/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/popular/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/search/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/search/basic/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/visit/basic/style.css" afterPath="$PROJECT_DIR$/gnuboard5/theme/basic/skin/visit/basic/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,9 +525,13 @@
       <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="102" column="24" lean-forward="false" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="290">
+              <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+              <folding>
+                <marker date="1499305037000" expanded="false" signature="1656:1757" ph="..." />
+                <marker date="1499305037000" expanded="false" signature="1947:2048" ph="..." />
+                <marker date="1499305037000" expanded="false" signature="2200:2237" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,10 +563,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="x" value="-230" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="979" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -94,7 +604,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="web.server" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
@@ -200,34 +710,49 @@
       <workItem from="1498789089682" duration="326000" />
       <workItem from="1498789575020" duration="100000" />
       <workItem from="1498790667779" duration="349000" />
+      <workItem from="1499303613007" duration="248000" />
+      <workItem from="1499304061732" duration="896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5131000" />
+    <option name="totallyTimeSpent" value="6347000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-230" y="23" width="1920" height="979" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25520834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25820333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +770,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1499305037000" expanded="false" signature="1656:1757" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="1947:2048" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="2200:2237" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -258,11 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="319" column="29" lean-forward="false" selection-start-line="319" selection-start-column="29" selection-end-line="319" selection-end-column="29" />
-          <folding>
-            <marker date="1498786866000" expanded="true" signature="580:639" ph="SELECT p_nam... nurse2016_patient" />
-            <marker date="1498786866000" expanded="true" signature="783:840" ph="SELECT * FRO... nurse2016_ck1_remain" />
-            <marker date="1498786866000" expanded="true" signature="1187:1266" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -281,7 +805,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
           <caret line="111" column="96" lean-forward="true" selection-start-line="111" selection-start-column="96" selection-end-line="111" selection-end-column="96" />
-          <folding />
+          <folding>
+            <marker date="1499305037000" expanded="false" signature="1656:1757" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="1947:2048" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="2200:2237" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -294,11 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="319" column="29" lean-forward="false" selection-start-line="319" selection-start-column="29" selection-end-line="319" selection-end-column="29" />
-          <folding>
-            <marker date="1498786866000" expanded="true" signature="580:639" ph="SELECT p_nam... nurse2016_patient" />
-            <marker date="1498786866000" expanded="true" signature="783:840" ph="SELECT * FRO... nurse2016_ck1_remain" />
-            <marker date="1498786866000" expanded="true" signature="1187:1266" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -317,7 +840,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
           <caret line="124" column="32" lean-forward="true" selection-start-line="124" selection-start-column="32" selection-end-line="124" selection-end-column="32" />
-          <folding />
+          <folding>
+            <marker date="1499305037000" expanded="false" signature="1656:1757" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="1947:2048" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="2200:2237" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -325,7 +852,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1499305037000" expanded="false" signature="1656:1757" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="1947:2048" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="2200:2237" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -338,11 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="319" column="29" lean-forward="false" selection-start-line="319" selection-start-column="29" selection-end-line="319" selection-end-column="29" />
-          <folding>
-            <marker date="1498786866000" expanded="true" signature="580:639" ph="SELECT p_nam... nurse2016_patient" />
-            <marker date="1498786866000" expanded="true" signature="783:840" ph="SELECT * FRO... nurse2016_ck1_remain" />
-            <marker date="1498786866000" expanded="true" signature="1187:1266" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -361,7 +887,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
           <caret line="111" column="96" lean-forward="true" selection-start-line="111" selection-start-column="96" selection-end-line="111" selection-end-column="96" />
-          <folding />
+          <folding>
+            <marker date="1499305037000" expanded="false" signature="1656:1757" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="1947:2048" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="2200:2237" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -374,11 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="319" column="29" lean-forward="false" selection-start-line="319" selection-start-column="29" selection-end-line="319" selection-end-column="29" />
-          <folding>
-            <marker date="1498786866000" expanded="true" signature="580:639" ph="SELECT p_nam... nurse2016_patient" />
-            <marker date="1498786866000" expanded="true" signature="783:840" ph="SELECT * FRO... nurse2016_ck1_remain" />
-            <marker date="1498786866000" expanded="true" signature="1187:1266" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -397,7 +922,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="114" column="31" lean-forward="true" selection-start-line="114" selection-start-column="31" selection-end-line="114" selection-end-column="31" />
-          <folding />
+          <folding>
+            <marker date="1499305037000" expanded="false" signature="1656:1757" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="1947:2048" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="2200:2237" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -405,7 +934,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1499305037000" expanded="false" signature="1656:1757" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="1947:2048" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="2200:2237" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -418,11 +951,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="319" column="29" lean-forward="false" selection-start-line="319" selection-start-column="29" selection-end-line="319" selection-end-column="29" />
-          <folding>
-            <marker date="1498786866000" expanded="true" signature="580:639" ph="SELECT p_nam... nurse2016_patient" />
-            <marker date="1498786866000" expanded="true" signature="783:840" ph="SELECT * FRO... nurse2016_ck1_remain" />
-            <marker date="1498786866000" expanded="true" signature="1187:1266" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -441,7 +969,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
           <caret line="111" column="96" lean-forward="true" selection-start-line="111" selection-start-column="96" selection-end-line="111" selection-end-column="96" />
-          <folding />
+          <folding>
+            <marker date="1499305037000" expanded="false" signature="1656:1757" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="1947:2048" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="2200:2237" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -454,11 +986,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="319" column="29" lean-forward="false" selection-start-line="319" selection-start-column="29" selection-end-line="319" selection-end-column="29" />
-          <folding>
-            <marker date="1498786866000" expanded="true" signature="580:639" ph="SELECT p_nam... nurse2016_patient" />
-            <marker date="1498786866000" expanded="true" signature="783:840" ph="SELECT * FRO... nurse2016_ck1_remain" />
-            <marker date="1498786866000" expanded="true" signature="1187:1266" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -475,9 +1002,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="102" column="24" lean-forward="false" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="290">
+          <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <folding>
+            <marker date="1499305037000" expanded="false" signature="1656:1757" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="1947:2048" ph="..." />
+            <marker date="1499305037000" expanded="false" signature="2200:2237" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
