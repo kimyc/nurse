@@ -101,7 +101,7 @@ var m_id = form.input_1.value;
 
 	<!--
 	<center><font size = 7>시스템 수정중입니다. 입력을 중단해주세요</font></center>
-	-->
+	--> 
 
     <div id="cont-login"">
         <a href="/"><span><font size = "6"><b>노인요양시설 다학제 통합기능케어 시스템</b></font></span></a><br><br>
