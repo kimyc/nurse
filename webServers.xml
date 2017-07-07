@@ -9,14 +9,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="68ce9340-b0f4-49e0-a830-e8a4f0fb3bf0" name="next.rootall" url="http://next.rootall.org">
-        <fileTransfer host="next.rootall.org" port="22" rootFolder="/home/rootall/public_html" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
