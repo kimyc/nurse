@@ -100,7 +100,7 @@ var m_id = form.input_1.value;
 	<!-- 본 내용 //-->
 
 	<!--
-	<center><font size = 7>시스템 수정중입니다. 입력을 중단해주세요.</font></center>
+	<center><font size = 7> 시스템 수정중입니다. 입력을 중단해주세요.</font></center>
 	--> 
 
     <div id="cont-login"">
