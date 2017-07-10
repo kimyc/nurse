@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="https://ejune.kr" promptOnLocalOverwrite="false" showEqualInSync="true">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="nurse" promptOnLocalOverwrite="false" showEqualInSync="true">
     <serverData>
-      <paths name="https://ejune.kr">
+      <paths name="next.rootall">
         <serverdata>
           <mappings>
-            <mapping deploy="/www/nurse" local="$PROJECT_DIR$" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="nurse">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="rootall">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
